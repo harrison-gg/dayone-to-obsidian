@@ -37,3 +37,5 @@ INCLUDE_VIDEOS: True
 # Set to True if you are using the Icons Plugin in Obsidian
 INCLUDE_ICONS: False
 
+# Set to True to use Fahrenheit for weather
+USE_FAHRENHEIT: False
